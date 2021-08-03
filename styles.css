@@ -1,5 +1,5 @@
 body {
-    background-image: url("https://bit.ly/2rBzYuB");
+    background-image: url("/images/mike-scheid-0iqkntLw93A-unsplash\ \(2\).jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -16,15 +16,15 @@ h1 {
 
 h2 {
     font-family: 'Anton', sans-serif;
-    color: coral;
+    color: rgb(80, 141, 255);
 }
 
 span {
-    color: coral;
+    color: rgb(106, 80, 255);
 }
 
 h1:hover {
-    color: coral;
+    color: rgb(98, 80, 255);
 }
 
 span:hover {
